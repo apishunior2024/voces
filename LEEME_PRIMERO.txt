@@ -1,0 +1,11 @@
+THE WEEKLY FLYER VOZ FACIL - PARA PC SIN GITHUB
+
+1. Descomprime el ZIP completo.
+2. Haz doble clic en INICIAR_VOZ_WINDOWS.bat.
+3. Se abrira Chrome/Edge en http://127.0.0.1:8765/ (si no, abre esa direccion manualmente).
+4. Mantén abierta la ventana negra mientras uses el editor.
+5. Necesitas internet al principio para descargar Kokoro y la biblioteca MP3.
+6. No abras index.html con doble clic: file:// no permite este flujo de trabajo.
+7. Para detener el servidor cierra la ventana negra.
+
+Es gratis, no necesita Python ni GitHub. La sintesis puede tardar y consumir memoria.
